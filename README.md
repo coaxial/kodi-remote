@@ -1,7 +1,11 @@
 # kodi-remote
 
-A repo to keep my custom Kodi (v18+)/LibreELEC remote control
-setup.
+A repo to keep my custom Kodi (v18+)/LibreELEC remote control setup (Sony 
+RMT-D109A.)
+
+## Usage
+
+Copy the repo's `storage/` directory to `/storage/` on the target LibreELEC box, restart Kodi.
 
 ## Setting up key codes
 
